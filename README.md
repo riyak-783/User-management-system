@@ -2,7 +2,7 @@
 
 This is a CRUD (Create, Read, Update, Delete) User Management Application built using **React**, **Vite**, and **Tailwind CSS**. The application interacts with the **JSONPlaceholder API** to manage user data and also includes **Toaster Notifications** and a **Loader** for better user experience.
 
-##Live link : https://user-management-webdev.netlify.app/
+## Live link : https://user-management-webdev.netlify.app/
 
 ## Features
 
